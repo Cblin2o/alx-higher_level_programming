@@ -5,4 +5,4 @@ if __name__ == "__main__":
     my = add_0.add
     a = 1
     b = 2
-    print("{} + {} = {}".format(a ,b , my(a, b)))
+    print('{:d} + {:d} = {:d}'.format(a, b, my(a, b)))
