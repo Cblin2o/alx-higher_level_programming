@@ -9,5 +9,4 @@ def safe_print_list(my_list=[], x=0):
         else:
             loop += 1
     print()
-    
     return loop
